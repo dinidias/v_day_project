@@ -64,17 +64,12 @@ export default function Home() {
             <img src="/img4.gif" alt="celebration gif" className="sticker-gif" />
           </div>
 
-          <h1 className="celebrate">HURREEEEE ❤️🎉</h1>
+          <h1 className="celebrate">HA HA JUST KIDDING!!</h1>
 
           {/* Poem Box */}
           <div className="poem-box">
             <p>
-              Mr. Big Ego, walking around like a king 😏💖<br />
-              Chest out, hair perfect, acting like the world owes you applause!<br />
-              Somehow, even with all that confidence, you still make me laugh 🥰<br />
-              You may be manly and impossible…<br />
-              Yet here I am, grinning at every ridiculous thing you do.<br />
-              Moral of the story? Charm + ego = dangerously cute 😎💕
+              Ane palayan yko
             </p>
           </div>
         </>
